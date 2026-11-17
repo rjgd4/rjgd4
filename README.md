@@ -1,16 +1,45 @@
-## Hi there 👋
+# Robin Jegard
 
-<!--
-**rjgd4/rjgd4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Optics & Photonics Engineering | Artificial Intelligence | Computer Vision
 
-Here are some ideas to get you started:
+Final-year engineering student at **Institut d'Optique Graduate School (SupOptique)**, pursuing a Master's degree in **Advanced Imaging and Material Appearance (AIMA)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in developing intelligent systems combining artificial intelligence, optical engineering and physical sciences.
+
+### Areas of Interest
+
+- Artificial Intelligence & Deep Learning
+- Computer Vision & Image Processing
+- Computational Imaging
+- Photonics & Optical Systems
+- AI for Physical Sciences
+
+### Technical Skills
+
+**Programming:** Python, C
+
+**AI & Machine Learning:** PyTorch, Deep Learning, Variational Autoencoders
+
+**Scientific Computing:** NumPy, SciPy, MATLAB
+
+**Optics & Imaging:** RETICOLO, Zemax, Image Processing
+
+### Selected Projects
+
+Projects covering machine learning, scientific computing, optical simulations and experimental physics.
+
+- Medical Image Reconstruction – VAE / β-VAE
+- Security Printing – Siamese Neural Networks
+- Industrial Computer Vision
+- Optical Simulations – RETICOLO
+- Levitated Particle Research – University of Oxford
+
+### Research Experience
+
+**University of Oxford – Department of Physics**
+
+Research placement – Transportation of Large, Levitated Particles (2026).
+
+### Contact
+
+[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/rjgd4)
