@@ -37,4 +37,4 @@ Final-year engineering student at **Institut d'Optique Graduate School (SupOptiq
 
 ## Contact
 
-📧 robin.jegard@institutoptique.fr · [LinkedIn](https://www.linkedin.com/in/robin-jegard-28aa86265/) · [CV (PDF)](LIEN_CV)
+📧 robin.jegard@institutoptique.fr · [LinkedIn](https://www.linkedin.com/in/robin-jegard-28aa86265/)
