@@ -19,7 +19,7 @@ Final-year engineering student at **Institut d'Optique Graduate School (SupOptiq
 |---|---|---|
 | [Variational autoencoders on medical images](https://github.com/rjgd4/vae-medical-images) | Convolutional VAE and β-VAE on 64×64 MedMNIST images (test MSE 0.0066). Study of the reconstruction/regularisation trade-off and of the latent space (PCA, t-SNE). Team of four. | PyTorch |
 | [Security printing: copy detection](https://github.com/rjgd4/Security-Printing-Copy-Detection-with-a-Siamese-Network) | Siamese neural network to tell original printed security features from copies. | MATLAB |
-| [Appearance of nanostructured materials](LIEN_REPO) | RETICOLO (modal method) model of the reflectance of nanoporous alumina on aluminium, benchmarked against experiments. Mines Saint-Étienne. | MATLAB |
+| [Appearance of nanostructured materials](https://github.com/rjgd4/anodized-aluminum-rcwa) | RETICOLO (modal method) model of the reflectance of nanoporous alumina on aluminium, benchmarked against experiments. Mines Saint-Étienne. | MATLAB |
 | [Steerable-beam car headlamp](https://github.com/rjgd4/adaptive-headlight-zemax) | Sequential multi-configuration design with a ±20° mirror, non-sequential ray tracing, Monte-Carlo tolerancing (2000 systems). Team project. | Zemax |
 
 ## Experience
